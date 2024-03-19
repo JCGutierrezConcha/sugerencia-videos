@@ -1,2 +1,2 @@
-# sugerencia-videos
-Desafío del módulo de Programación Avanzada en JavaScript donde se utilizan expresiones de función ejecutadas inmediatamente (IIFE por su sigla en inglés) y herencia entre clases. También se crean los métodos playMultimedia y setInicio. playMultimedia() , setters y métodos.
+# Sugerencia de Videos
+Desafío del módulo de Programación Avanzada en JavaScript donde se utilizan expresiones de función ejecutadas inmediatamente (IIFE por su sigla en inglés) y herencia entre clases. Para ellos se una IIFE con datos de id y url y se generan las clases Multimedia y Reproductor (que hereda de Multimedia). También se crean los métodos playMultimedia() y setInicio(). Finalmente se instancian reproductores de música, películas y series, los cuales son activados con el método playMultimedia(), estableciendo un tiempo (en segundos) desde donde se comienza a reproducir el respectivo vídeo, usando el método setInicio(). 
